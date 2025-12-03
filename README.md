@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Febriyan Putra 👋</h2>
+<h1 align="center">Hello, I'm Febriyan Putra 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
@@ -6,10 +6,10 @@
 
 ---
 
-<p align="center">
+<h3 align="center">
   I am an Informatics student at <strong>Esa Unggul University</strong>, Faculty of Computer Science,  
   with strong interest in the fields of
-</p>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-1976D2?style=for-the-badge&logo=google-analytics&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ### Skills 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,cpp,php,python,java,mysql,mongodb,git,github,figma,discord" />
 </p>
 
 ---
@@ -41,13 +41,6 @@
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Febriyan2005&theme=blue-green&hide_border=false" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febriyan2005&show_icons=true&theme=blue-green&hide_border=true&rank_icon=github" 
-    alt="GitHub Stats"
   />
 </p>
 
