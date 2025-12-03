@@ -21,46 +21,38 @@
 
 ---
 
-### 🧠 Skills 
+### Skills 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,java" />
 </p>
 
 ---
 
-### 📊 Stats  
+### GitHub Stats  
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febriyan2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Febriyan2005&layout=compact&theme=blue-green&hide_border=true" 
+  />
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=Febriyan2005&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Febriyan2005&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Febriyan2005&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febriyan2005&show_icons=true&theme=blue-green&hide_border=true&rank_icon=github" 
     alt="GitHub Stats"
   />
 </p>
 
-<p align="center">
-  <img 
-    height="170"
-    src="https://streak-stats.demolab.com?user=Febriyan2005&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Febriyan2005&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Febriyan2005&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-### Connect  
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="20" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="20" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="20" alt="instagram logo"  />
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 <picture>
@@ -68,5 +60,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febriyan2005/Febriyan2005/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Febriyan2005/Febriyan2005/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+### Connect  
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="20" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="20" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="20" alt="instagram logo"  />
+</div>
 
 ---
