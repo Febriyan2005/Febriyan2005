@@ -6,18 +6,20 @@
 
 ---
 
-<p align="center">
+<p>
   I am an Informatics student at <strong>Esa Unggul University</strong>, Faculty of Computer Science,  
   with strong interest in the fields of
 </p>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-1976D2?style=for-the-badge&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Engineering-388E3C?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8E24AA?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
@@ -36,9 +38,11 @@
   />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Febriyan2005&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Febriyan2005&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Febriyan2005&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Febriyan2005&theme=blue-green&hide_border=false" 
+  />
+</p>
 
 <p align="center">
   <img 
@@ -47,12 +51,16 @@
   />
 </p>
 
-
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Febriyan2005&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=Febriyan2005&limit=5&theme=blue-green&combine_all_yearly_contributions=true"
+  />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 
 <picture>
@@ -62,8 +70,8 @@
 </picture>
 
 ---
-### Connect  
 
+### Connect  
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="20" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="20" alt="linkedin logo"  />
