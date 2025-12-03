@@ -6,7 +6,7 @@
 
 ---
 
-<p>
+<p align="center">
   I am an Informatics student at <strong>Esa Unggul University</strong>, Faculty of Computer Science,  
   with strong interest in the fields of
 </p>
