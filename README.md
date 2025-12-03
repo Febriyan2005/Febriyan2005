@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Febriyan 👋</h1>
+<h2 align="center">Hello, I'm Febriyan Putra 👋</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
@@ -6,37 +6,67 @@
 
 ---
 
-### 👨‍💻 About Me  
-Mahasiswa Informatika | Data Analyst & Machine Learning Enthusiast  
-Berfokus pada Python, SQL, TensorFlow, dan Data Engineering.
+<p align="center">
+  I am an Informatics student at <strong>Esa Unggul University</strong>, Faculty of Computer Science,  
+  with strong interest in the fields of
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-1976D2?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-388E3C?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8E24AA?style=for-the-badge&logo=openai&logoColor=white" />
 
 ---
 
-### 🧠 Tech I Use  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,mysql,js,html,css" />
+### 🧠 Skills 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,java" />
 </p>
 
 ---
 
 ### 📊 Stats  
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Febriyan2005&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febriyan2005&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febriyan2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="170"
+    src="https://streak-stats.demolab.com?user=Febriyan2005&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Febriyan2005&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-### 🏆 Featured Projects  
-- CNN vs SVM Classification  
-- SQL Analytics Project  
-- Retail Data Dashboard  
-- Python EDA Notebook  
+### Connect  
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="20" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="20" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="20" alt="instagram logo"  />
+</div>
 
 ---
 
-### 🤝 Connect  
-<p>
-  <a href="https://linkedin.com/in/febriyanputra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mfebriyanputrahariska@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Febriyan2005/Febriyan2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febriyan2005/Febriyan2005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Febriyan2005/Febriyan2005/output/pacman-contribution-graph.svg">
+</picture>
+
+---
