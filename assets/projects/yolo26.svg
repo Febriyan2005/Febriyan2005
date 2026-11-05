@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="230" viewBox="0 0 620 230" role="img" aria-label="YOLO26">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1832"/><stop offset="1" stop-color="#221443"/></linearGradient><linearGradient id="accent" x2="1"><stop stop-color="#52f1e0"/><stop offset="1" stop-color="#c673fb"/></linearGradient><pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><path d="M23 0H0V23" fill="none" stroke="#93acdf" stroke-opacity=".07"/></pattern></defs>
+<rect width="620" height="230" rx="18" fill="url(#bg)"/><rect width="620" height="230" rx="18" fill="url(#grid)"/>
+<rect x="16" y="16" width="588" height="198" rx="12" fill="none" stroke="#9a86e1" stroke-opacity=".45"/>
+<rect x="34" y="32" width="11" height="11" rx="3" fill="#59e8d6"/><text x="57" y="43" fill="#a4b2e2" font-family="Consolas,monospace" font-size="15">01 / COMPUTER VISION</text>
+<text x="35" y="94" fill="#edf2ff" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">YOLO26</text>
+<text x="36" y="124" fill="#b1c2e3" font-family="Segoe UI,Arial,sans-serif" font-size="17">Vehicle object detection</text>
+<path d="M35 148H326" stroke="url(#accent)" stroke-width="3"/>
+<rect x="34" y="166" width="300" height="39" rx="7" fill="#162343" stroke="#6a7ca9" stroke-opacity=".7"/>
+<text x="49" y="191" fill="#74f7dc" font-family="Consolas,monospace" font-size="18">mAP@0.50  ·  98.34%</text>
+<g opacity=".85" stroke="#74f7e7" stroke-width="2" fill="none"><rect x="385" y="65" width="118" height="110" rx="6"/><rect x="410" y="87" width="57" height="66" rx="3"/><path d="M410 107h57M430 87v66"/></g><circle cx="442" cy="118" r="4" fill="#74f7e7"/>
+</svg>
