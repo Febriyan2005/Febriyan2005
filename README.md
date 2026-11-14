@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/celestial/realm-header.webp" alt="Moonlit celestial floating palaces and waterfalls in a violet-blue digital realm" width="100%" />
+<img src="assets/celestial/realm-header.webp" alt="Muhammad Febriyan Putrahariska - Data Analytics, Machine Learning and AI in Celestial Neural Realm" width="100%" />
 
-### ✦ CELESTIAL NEURAL REALM ✦
+**✦ CELESTIAL NEURAL REALM ✦**
 
-*An Informatics student exploring intelligent systems, data, and software.*
+*Explore the projects, tools and ideas behind my work.*
 
 [**About**](#about-me) · [**Projects**](#featured-projects) · [**Tech Stack**](#tech-stack) · [**Experience**](#experience) · [**Activity**](#github-activity) · [**Contact**](#contact)
 
@@ -26,8 +26,8 @@
 </p>
 </td>
 <td width="47%" align="center" valign="middle">
-<img src="assets/celestial/neural-core.gif" alt="Seamless looping neural data particles morph into Python, Flutter, TensorFlow, Docker, Kubernetes, and database icons" width="100%" />
-<p><sub>NEURAL CORE · Continuous particle-to-logo morphing</sub></p>
+<img src="assets/celestial/neural-core.gif" alt="Animated orbit with recognizable Python, Flutter, TensorFlow, Docker, Kubernetes and database icons changing continuously" width="100%" />
+<p><sub>NEURAL CORE · Python → Flutter → TensorFlow → Docker → Kubernetes → Database</sub></p>
 </td>
 </tr>
 </table>
@@ -53,7 +53,9 @@ I am **Muhammad Febriyan Putrahariska**, an Informatics undergraduate interested
 </tr>
 </table>
 
-<img src="assets/celestial/data-lattice.gif" alt="Looping neon data lattice and machine-learning point cloud" width="100%" />
+<div align="center">
+<img src="assets/celestial/data-lattice.gif" alt="Looping neon data lattice and machine-learning point cloud" width="82%" />
+</div>
 
 ## Featured Projects
 
